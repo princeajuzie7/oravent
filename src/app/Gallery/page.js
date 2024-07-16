@@ -1,9 +1,9 @@
 "use client"
 // import { FooterWithSitemap } from '@/components/Footer/Footer'
-import { FooterWithSitemap } from '@/components/Footer/Footer';
-import { NavbarWithMegaMenu } from '@/components/Navbar/Navbar';
-import GalleryComponent from '@/components/gallery/galleryComponent';
-import GalleryComp2 from '@/components/gallery/GlleryComp2';
+import { FooterWithSitemap } from "../../components/Footer/Footer";
+import { NavbarWithMegaMenu } from "../../components/Navbar/Navbar";
+import GalleryComponent from "../../components/gallery/galleryComponent";
+import GalleryComp2 from "../../components/gallery/GlleryComp2";
 
 
 

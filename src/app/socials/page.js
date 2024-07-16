@@ -1,7 +1,7 @@
 "use client";
 import { useEffect,useState,useRef } from "react";
-import { NavbarWithMegaMenu } from "@/components/Navbar/Navbar";
-import { FooterWithSitemap } from "@/components/Footer/Footer";
+import { NavbarWithMegaMenu } from "../../components/Navbar/Navbar";
+import { FooterWithSitemap } from "../../components/Footer/Footer";
 import CustomButton from "@/components/button/CustomButton";
 // ... (your existing imports)
 import { FaPlay, FaPause,  } from 'react-icons/fa';
