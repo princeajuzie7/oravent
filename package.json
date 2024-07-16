@@ -14,7 +14,7 @@
     "@material-tailwind/react": "^2.1.4",
     "heroicons": "^2.0.18",
     "lightgallery": "^2.7.2",
-    "next": "14.0.2",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
