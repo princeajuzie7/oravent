@@ -1,15 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    optimizeCss: false, 
-  enableBabelRuntime: true, 
-    images : {
-        remotePatterns : [
-            {
-                protocol : 'https',
-                 hostname: "**"
-            }
-        ]
-    }
-}
+const nextConfig = {}
 
 module.exports = nextConfig

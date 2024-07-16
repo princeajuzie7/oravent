@@ -1,15 +1,10 @@
 /** @type {import('tailwindcss').Config} */
-const withMT = require("@material-tailwind/react/utils/withMT");
-
+const   withMT = require('@material-tailwind/react/utils/withMT');
 module.exports = withMT({
-  important: true,
-  mode: 'jit',
-  purge: false,
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
-    "./layouts/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
@@ -20,11 +15,10 @@ module.exports = withMT({
       },
     },
   },
-  rippleui: {
-		removeThemes: ["whatever","dark" ],
-	},
+  rippleui : {
+    removeThemes :["dark"]
+  },
   plugins: [
-    require('rippleui'),
-   
+    require('rippleui')
   ],
 })
