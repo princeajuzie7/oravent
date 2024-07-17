@@ -29,7 +29,7 @@ function NavList() {
     { text: "About", id: "about" },
     { text: "Contact", id: "#Contact" },
     { text: "Services", id: "services" },
-    { text: "Gallery", id: "gallery" },
+    { text: "Gallery", id: "gallerys" },
     { text: "Socials", id: "socials" },
   ];
 
