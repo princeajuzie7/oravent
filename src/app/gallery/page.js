@@ -2,7 +2,7 @@
 // import { FooterWithSitemap } from '@/components/Footer/Footer'
 import { FooterWithSitemap } from "@/components/Footer/Footer";
 import { NavbarWithMegaMenu } from "@/components/Navbar/Navbar";
-import GalleryComponent from "../components/gallery/galleryComponent";
+import GalleryComponent from "@/components/gallery/GalleryComponent";
 import GalleryComp2 from "@/components/gallery/GlleryComp2";
 
 export default function Page() {
