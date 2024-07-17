@@ -7,7 +7,7 @@ import GalleryComp2 from '@/components/gallery/GlleryComp2';
 
 
 
-export default function page() {
+export default function Page() {
   return (
     <div>
       <NavbarWithMegaMenu/>

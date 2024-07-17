@@ -3,7 +3,7 @@ import { NavbarWithMegaMenu } from '@/components/Navbar/Navbar'
 import BookAppointment from '@/components/booking/BookAppointment';
 
 
-export default function page() {
+export default function Page() {
     return (
         <div>
             <NavbarWithMegaMenu/>

@@ -8,7 +8,7 @@ import AboutComponent from "@/components/about/AboutComponent";
 import ReviewComponent from "@/components/reviews/ReviewComponent";
 import ContactComponent from "@/components/contact/ContactComponent";
 
-export default function Home() {
+export default function Page() {
   return (
     <>
       {/* navbar  component */}

@@ -4,7 +4,7 @@ import AboutComponent from '@/components/about/AboutComponent'
 import ContactComponent from '@/components/contact/ContactComponent'
 
 
-export default function page() {
+export default function Page() {
   return (
     <div>
         <NavbarWithMegaMenu/>
